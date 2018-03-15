@@ -9,6 +9,7 @@ import javax.persistence.Id;
 import java.util.Date;
 
 /**
+ * 商品类目
  * @author yami fang
  * @since 22:26 2018/3/13
  */
